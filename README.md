@@ -6,3 +6,5 @@ Contains:
  - About
  - Trailer
  - Contact
+
+![Image 1](https://github.com/gerardpanisello/Simple-WebSite/blob/main/Images/Screenshot_1.png)
